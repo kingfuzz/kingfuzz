@@ -1,6 +1,6 @@
 👋 Hi, I’m @kingfuzz
 
-Doing Audio DSP during the day and wierd noises at night. 
+Doing Audio DSP during the day and weird noises at night. 
 
 Working in Matlab, Python, C and C++
 
