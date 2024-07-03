@@ -1,8 +1,6 @@
-👋 Hi, I’m @kingfuzz
+👋 Hi, I’m Christian
 
-Doing Audio DSP during the day and weird noises at night. 
-
-Working in Matlab, Python, C and C++
+Working with everything Audio: DSP, Audio Systems, Embedded Audio, Music Processing, you name it ;-)
 
 <!---
 kingfuzz/kingfuzz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
